@@ -11,7 +11,7 @@ Para executar este servidor, você precisará ter o Docker instalado em seu sist
 1. Clone este repositório para o seu sistema local:
 
    ```bash
-   git clone https://github.com/seu-usuario/Serverness.git
+   git clone https://github.com/darokviana/serverness.git
    ```
 
 2. Navegue até o diretório do projeto:
