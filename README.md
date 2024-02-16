@@ -17,7 +17,7 @@ Para executar este servidor, você precisará ter o Docker instalado em seu sist
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd Serverness
+   cd serverness
    ```
 
 3. Execute o Docker Compose para construir e iniciar os contêineres:
@@ -47,13 +47,13 @@ To run this server, you will need to have Docker installed on your system. You c
 1. Clone this repository to your local system:
 
    ```bash
-   git clone https://github.com/your-username/Serverness.git
+   git clone https://github.com/darokviana/serverness.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Serverness
+   cd serverness
    ```
 
 3. Run Docker Compose to build and start the containers:
